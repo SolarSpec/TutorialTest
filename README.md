@@ -39,3 +39,19 @@ Modify the `<your name>.txt` however you like
 `$ git remote add origin https://github.com/SolarSpec/TutorialTest.git`
 
 `$ git push -u origin <Your branch name>`
+
+If you now visit https://github.com/SolarSpec/TutorialTest, you should see your branch under branches, and under https://github.com/SolarSpec/TutorialTest/network you should be able to see the position of your branch
+
+If you want to see what others have added to their branches
+
+` git pull`
+
+This will update your files and branches
+
+` git switch <branch you want to see>`
+
+If you notice, your `<your name>.txt` should now be hidden, as it only exists in your branch, but the README.md should not, as it's on the main branch shared by everyone
+
+Please do let me know if you run into any trouble
+
+Once you are comfortable with this tutorial, I will upldoad a new one with merging, so that everyone can see your work, and so that you can collaborate with team mates in making scripts.
