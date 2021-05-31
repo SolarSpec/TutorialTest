@@ -28,9 +28,9 @@ After following one of the two methods above, we can then add files(Don't modify
 
 `$ git checkout -b <Your name>`
 
-`$ echo > "<your name>.txt`
+`$ echo > <your name>.txt`
 
-Modify the `<your name>.txt` however you like
+to create an empty text file. Modify the `<your name>.txt` however you like
 
 `$ git add .`
 
