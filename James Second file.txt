@@ -1,0 +1,3 @@
+This is James' second file to show that files in branches only have the files from which the branch was made
+
+This was made from branching James2 from main
